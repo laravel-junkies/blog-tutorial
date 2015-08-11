@@ -1,5 +1,5 @@
 # Laravel Blog Tutorial
-## A full Laravel Blog Tutorial 
+A full Laravel Blog Tutorial 
 
 
 ## Required Git Repositories
